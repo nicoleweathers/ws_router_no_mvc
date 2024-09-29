@@ -1,0 +1,14 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
+# Accepts loading of Files and Directories
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Sends all pages/urls that don't exist to home page
+# Also saves what is typed in url in Global variable
+RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]
+
+
