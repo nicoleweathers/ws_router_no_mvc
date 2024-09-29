@@ -7,7 +7,7 @@ This README.md file was generated using web app repository available at github.c
 <p align="center">
   <img src="public/imgs/readme_banner.png" width="100%">
 </p>
-<span style="color:#000;font-weight:700;font-size:1.5em;padding-top:0!important;margin-top:0!important"> Easiest to understand & great for learning routing structure </span>
+<p align="center"><strong>Easiest to understand & great for learning routing structure</strong></p>
 </div>
 
 ---
@@ -54,7 +54,7 @@ router_no_mvc/
               
         
 <div style="text-align:center;font-size:1.5em;padding-bottom:20px">
-<p style="font-size:2em;font-weight:600">Liked the work?</p>
+<p align="center" style="font-size:2em;font-weight:600">Liked the work?</p>
 
 ### ⭐ Star us on GitHub — it's easy & it fuels us!
 
@@ -66,7 +66,7 @@ router_no_mvc/
 <p align="center">
   <img src="public/imgs/readme_banner.png" width="100%">
 </p>
-<span style="color:#000;font-weight:700;font-size:1.5em;padding-top:0!important;margin-top:0!important"> Easiest to understand & great for learning routing structure </span>
+<p align="center"><strong>Easiest to understand & great for learning routing structure</strong></p>
 </div>
 
 ---
@@ -74,5 +74,4 @@ router_no_mvc/
 
 [( ↑ Back to top ↑ )](#readme-top)
 
----        
-# ws_router_no_mvc
+---     
